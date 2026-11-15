@@ -89,7 +89,7 @@ git init
 git add .
 git commit -m "Build responsive developer portfolio"
 git branch -M main
-git remote add origin https://github.com/tayassukmdabir95/tayassuk-portfolio.git
+git remote add origin "YOURGITHUBBRANCHORIGIN"
 git push -u origin main
 ```
 
